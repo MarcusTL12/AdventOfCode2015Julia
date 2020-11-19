@@ -19,7 +19,7 @@ function part2()
         first(
         dropwhile(((_, x),) -> x != -1,
         enumerate(
-        accumulate(+,
+        Iterators.accumulate(+,
         if c == '('
             1
         elseif c == ')'
