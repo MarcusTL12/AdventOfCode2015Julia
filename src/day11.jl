@@ -61,7 +61,7 @@ function part1()
 end
 
 
-function part1()
+function part2()
     password = copy(input)
     
     while !valid_password(password)
