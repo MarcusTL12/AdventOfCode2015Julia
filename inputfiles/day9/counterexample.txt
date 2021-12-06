@@ -1,0 +1,10 @@
+a to b = 1
+a to c = 2
+a to d = 3
+a to e = 4
+b to c = 5
+b to d = 6
+b to e = 7
+c to d = 8
+c to e = 9
+d to e = 10
